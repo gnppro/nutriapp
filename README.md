@@ -2,4 +2,7 @@
 
 Gestión de tu dieta
 
-## Demo: [Ver](https://nutri-erc.gnppro.now.sh/)
+## Demo:
+
+- User: [Ver como User](https://nutri-erc.gnppro.now.sh/)
+- Admin: [Ver como Admin](https://nutri-erc.gnppro.now.sh/admin)
